@@ -78,7 +78,7 @@ include "search.php";
 <section class="py-5">
   <div class="container">
     <br>
-    <h3>Search for your favourite food here</h3>
+    <h3>We have your favourite food just one click away</h3>
 
     <p> We provide delivery service 24/7 365 days. Our customer base are people who work late but crave for food.</p>
 
